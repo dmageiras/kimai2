@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file date="2017-01-12T20:00:00Z" source-language="en" target-language="en" datatype="plaintext" original="none">
+        <body>
+            <trans-unit id="timesheet.stop.success">
+                <source>timesheet.stop.success</source>
+                <target>Η καταγραφή χρόνου απενεργοποιήθηκε</target>
+            </trans-unit>
+            <trans-unit id="timesheet.stop.error">
+                <source>timesheet.stop.error</source>
+                <target>Δεν απενεργοποιήθηκε η καταγραφή χρόνου: %reason%</target>
+            </trans-unit>
+            <trans-unit id="timesheet.start.success">
+                <source>timesheet.start.success</source>
+                <target>Η καταγραφή χρόνου ενεργοποιήθηκε</target>
+            </trans-unit>
+            <trans-unit id="timesheet.start.error">
+                <source>timesheet.start.error</source>
+                <target>Δεν ενεργοποιήθηκε η καταγραφή χρόνου: %reason%</target>
+            </trans-unit>
+            <trans-unit id="action.update.success">
+                <source>action.update.success</source>
+                <target>Οι αλλαγές αποθηκεύτηκαν επιτυχώς</target>
+            </trans-unit>
+            <trans-unit id="action.update.error">
+                <source>action.update.error</source>
+                <target>Οι αλλαγές δεν αποθηκεύτηκαν: %reason%</target>
+            </trans-unit>
+            <trans-unit id="action.delete.success">
+                <source>action.delete.success</source>
+                <target>Η καταχώρηση διαγράφηκε επιτυχώς</target>
+            </trans-unit>
+            <trans-unit id="action.delete.error">
+                <source>action.delete.error</source>
+                <target>Δεν διαγράφηκε η καταχώρηση: %reason%</target>
+            </trans-unit>
+            <trans-unit id="invoice.first_template">
+                <source>invoice.first_template</source>
+                <target>Πρέπει να σχεδιάσετε ένα πρότυπο τιμολόγιο προτού προχωρήσετε</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
