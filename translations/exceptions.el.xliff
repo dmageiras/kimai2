@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file date="2017-01-12T20:00:00Z" source-language="en" target-language="en" datatype="plaintext" original="none">
+        <body>
+            <trans-unit id="access.denied">
+                <source>access.denied</source>
+                <target>Δεν επιτρέπεται η πρόσβαση</target>
+            </trans-unit>
+            <trans-unit id="stacktrace">
+                <source>stacktrace</source>
+                <target>Το πρόβλημα προέκυψε εδώ</target>
+            </trans-unit>
+            <trans-unit id="http_error.title">
+                <source>http_error.title</source>
+                <target>Σφάλμα</target>
+            </trans-unit>
+            <trans-unit id="http_error.description">
+                <source>http_error.description</source>
+                <target>Ωχ! Προέκυψε σφάλμα.</target>
+            </trans-unit>
+            <trans-unit id="http_error.suggestion">
+                <source>http_error.suggestion</source>
+                <target>
+                    Προέκυψε μη αναμενόμενο σφάλμα, προσπαθήστε εκ νέου.
+                    Αν το σφάλμα εξακολουθεί, ενημερώστε σχετικά το διαχειριστή, ίσως να πρόκειται για bug.
+                </target>
+            </trans-unit>
+            <trans-unit id="http_error_404.description">
+                <source>http_error_404.description</source>
+                <target>Ωχ! Η σελίδα δεν βρέθηκε.</target>
+            </trans-unit>
+            <trans-unit id="http_error_404.suggestion">
+                <source>http_error_404.suggestion</source>
+                <target>
+                    Η σελίδα που αναζητάτε δεν βρέθηκε.
+                    Συνίσταται να επιστρέψετε στον πίνακα ελέγχου και να ξαναπροσπαθήσετε.
+                </target>
+            </trans-unit>
+            <trans-unit id="http_error_403.description">
+                <source>http_error_403.description</source>
+                <target>Η σελίδα έχει περιορισμένη πρόσβαση.</target>
+            </trans-unit>
+            <trans-unit id="http_error_403.suggestion">
+                <source>http_error_403.suggestion</source>
+                <target>
+                    Λυπούμεθα, δεν έχετε τα απαιτούμενα δικαιώματα για να δείτε αυτή τη σελίδα. 
+                    Αν πιστεύετε ότι η απογόρευση πρέπει να αρθεί, επικοινωνήστε με το διαχειριστή του συστήματος. 
+                </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
